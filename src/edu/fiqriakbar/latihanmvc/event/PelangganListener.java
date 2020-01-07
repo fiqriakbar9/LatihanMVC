@@ -9,7 +9,10 @@ import edu.fiqriakbar.latihanmvc.model.PelangganModel;
 
 /**
  *
- * @author fiqri
+ * NIM : 110118020
+ * Nama : Fiqri Akbar Pratama
+ * Kelas : IF-1
+ *
  */
 public interface PelangganListener {
     
